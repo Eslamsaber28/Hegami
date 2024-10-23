@@ -1,0 +1,25 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-logo {
+    height: 50px;
+    width: auto;
+    margin-right: 10px;
+  }
+  
+  .navbar-nav .nav-item .nav-link {
+    font-size: 1.2rem;
+    color: #333;
+    padding-right: 20px;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #00D9A5;
+  }
+  
+  .navbar-nav .nav-item.active .nav-link {
+    color: #00D9A5;
+    font-weight: bold;
+  }

@@ -1,0 +1,13 @@
+.page-footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .footer-menu li a {
+    margin: 0;
+    padding: 5px 0;
+  }
+  
+  .footer-link {
+    font-size: 1.1rem;
+  }

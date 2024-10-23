@@ -1,0 +1,63 @@
+.page-section {
+    background-color: #f4f8fb; /* خلفية خفيفة للقسم */
+    padding: 60px 0; /* هوامش داخلية كبيرة */
+  }
+  
+  .section-title {
+    font-size: 2.5rem; /* حجم العنوان */
+    color: #007bff; /* لون العنوان */
+    margin-bottom: 20px; /* مسافة أسفل العنوان */
+  }
+  
+  .text-grey {
+    color: #6c757d; /* لون النص */
+    font-size: 1.1rem; /* حجم النص */
+  }
+  
+  .btn-primary {
+    /* background-color: #007bff; لون الخلفية للأزرار */
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+  }
+  
+  .img-place {
+    text-align: center; /* يجعل الصورة في المنتصف */
+  }
+  
+  .img-fluid {
+    max-width: 100%; /* يجعل الصورة قابلة للتكيف */
+    height: auto; /* يحافظ على نسبة العرض إلى الارتفاع */
+  }
+  
+  /* تأثيرات الـ WOW animations */
+  .fade-in-up {
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .fade-in-right {
+    animation: fadeInRight 1s ease-in-out;
+  }
+  
+  /* إضافة حركات fade-in */
+  @keyframes fadeInUp {
+    from {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeInRight {
+    from {
+      transform: translateX(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+  }
+  }
