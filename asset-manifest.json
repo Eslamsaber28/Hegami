@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Hegami/static/css/main.46a8b707.css",
+    "main.js": "/Hegami/static/js/main.675f49d3.js",
+    "static/js/453.ab2e3864.chunk.js": "/Hegami/static/js/453.ab2e3864.chunk.js",
+    "static/media/bg-doctor.png": "/Hegami/static/media/bg-doctor.11f7b0f28aa7258d486d.png",
+    "static/media/bg_image_1.jpg": "/Hegami/static/media/bg_image_1.58eaf94268ae2104d859.jpg",
+    "index.html": "/Hegami/index.html",
+    "main.46a8b707.css.map": "/Hegami/static/css/main.46a8b707.css.map",
+    "main.675f49d3.js.map": "/Hegami/static/js/main.675f49d3.js.map",
+    "453.ab2e3864.chunk.js.map": "/Hegami/static/js/453.ab2e3864.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a8b707.css",
+    "static/js/main.675f49d3.js"
+  ]
+}
